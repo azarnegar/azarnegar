@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Armita Zarnegar. 
+ 
+<!--<img src="ArmitaZ.jpg" alt="Armita" style="max-width:200px; height:auto;">-->
+<img src="ArmitaZ.jpg" alt="Armita" width="200">
+
+
 
 <!--
 **azarnegar/azarnegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👯 I’m looking to collaborate on computing education projects. 
